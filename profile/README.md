@@ -4,6 +4,7 @@ Here is a list of the research topics that the team is currently exploring. The 
 
 - Knowledge Graphs and Data Management
   - [CANDIL Data Fabric](https://github.com/candil-data-fabric)
+  - [COSE signatures for data provenance](https://github.com/tefiros/cose-provenance)
 - Network Capability Exposure
   - [CIATU - Centrally Integrated API-GW for non-Telco Users](https://github.com/tefiros/CIATU)
 - Network Digital Twins
